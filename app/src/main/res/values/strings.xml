@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MvpDemo</string>
+    <string name="str_tv_info">获取到的信息</string>
+    <string name="str_btn_getInfo">获取数据</string>
+</resources>
